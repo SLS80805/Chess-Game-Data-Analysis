@@ -1,4 +1,4 @@
-# Python-Data-Analysis
+# Chess-Games-Data-Analysis
 
 
 This is a basic DA worked done on a games.csv file.
